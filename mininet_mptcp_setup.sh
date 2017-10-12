@@ -8,6 +8,8 @@ sudo apt-get install linux-mptcp
 # reboot
 sudo reboot
 # verify
+#cat /boot/grub/menu.lst | grep -m 1 mptcp
+uname -a
 dmesg | grep MPTCP
 sysctl net.mptcp
 
