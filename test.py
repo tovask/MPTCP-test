@@ -22,6 +22,12 @@ questions:
  - double delay on the first ping
  - 
 """
+"""
+TODO:
+ - mptcp headers findAll (not just one)
+ - echo 3 | sudo tee /sys/modules/mptcp_ ...
+ - cut a link while meansuring
+"""
 
 import time
 import xml.etree.ElementTree
