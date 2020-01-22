@@ -1,4 +1,7 @@
 # MultiPath TCP
+
+([They explicitly told me to write this in hungarian](http://alpha.tmit.bme.hu/labor/l02/), sorry about this...)  
+
 #### Témalaboratórium beszámoló
 
 2017\. ősz
@@ -8,8 +11,6 @@ Műhely: HSNLab Reliability &amp; Routing
 Műhely vezető: Dr. Tapolcai János  
 Téma vezető: Dr. Tapolcai János, Rétvári Gábor  
 Feladat: MultiPath TCP beállításainak mérése  
-
-([They explicitly told me to write this in hungarian](http://alpha.tmit.bme.hu/labor/l02/), sorry about that...)
 
 ### Kiindulási állapot
 
